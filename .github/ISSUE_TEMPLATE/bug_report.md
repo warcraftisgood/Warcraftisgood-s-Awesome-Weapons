@@ -1,38 +1,51 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug Report
+title: "[Bug]: "
+labels: bug
+---
+
+## Environment
+
+**Awesome Weapons Version:**
+(e.g. 7.0.0)
+
+**Minecraft Version:**
+(e.g. 1.7.10)
+
+**Forge Version:**
+(e.g. 10.13.4.1614)
+
+**Java Version:**
+(e.g. Java 8)
+
+**Operating System:**
+(e.g. Windows 11, Linux, macOS)
+
+**Other Mods Installed (if crash report suggests incompatibility):**
+(List any suspicious mods)
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Describe the bug
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Describe what happened.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+---
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Steps to reproduce
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+1.
+2.
+3.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+---
 
-**Additional context**
-Add any other context about the problem here.
+## Crash Report / Log
+
+If the game crashed, please upload the crash report or paste it to Pastebin and link it here.
+
+---
+
+## Additional information
+
+Anything else that might help.
